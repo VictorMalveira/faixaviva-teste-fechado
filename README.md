@@ -13,3 +13,9 @@ Sugestões úteis: conte como foi registrar um treino, navegar pelo feed, acompa
 Desenvolve outro app Android em teste fechado? Pode chamar no direct para conversarmos sobre uma **troca de testes reais e feedback**, sem bots ou instalações artificiais.
 
 > Este repositório contém apenas o convite. O código-fonte do Faixa Viva não está publicado aqui. O teste fechado da Google Play só fica acessível após a inclusão da conta Google na lista de testadores.
+
+## English
+
+**Faixa Viva** is an Android jiu-jitsu app for logging training, tracking progress, and connecting with other athletes. We are looking for real closed-test participants and honest feedback.
+
+To join, privately message [@faixaviva.app on Instagram](https://www.instagram.com/faixaviva.app/) with the Google account email used on your Android device's Play Store. Please do **not** post your email publicly. Once your account is added and confirmed eligible for the test region, [opt in here](https://play.google.com/apps/testing/br.com.jiutracker.jiu_tracker_next), install through Google Play, try the app, and remain opted in for at least **14 days**. If you are another Android developer, we can discuss reciprocal real-world testing and feedback — no bots or artificial installs.
